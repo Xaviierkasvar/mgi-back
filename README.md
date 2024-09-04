@@ -54,7 +54,7 @@ git clone https://github.com/Xaviierkasvar/mgi-back 
 ### Crear una base de datos llamada mgi
 
 ```bash
-CREATE DATABASE mgi;
+CREATE DATABASE mgi
 ```
 
 ### Backend (Laravel)
