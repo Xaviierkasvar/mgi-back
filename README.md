@@ -50,8 +50,12 @@ El proyecto también incluye un sistema de autenticación basado en **JWT** para
 ```bash
 git clone https://github.com/Xaviierkasvar/mgi-back 
 ```
-Crear una base de datos llamada mgi
+
+### Crear una base de datos llamada mgi
+
+```bash
 CREATE DATABASE mgi;
+```
 
 ### Backend (Laravel)
 
