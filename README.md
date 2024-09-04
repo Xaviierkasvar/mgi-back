@@ -72,6 +72,9 @@ CREATE DATABASE mgi
     ```bash
     php artisan key:generate
     ```
+    ```bash
+    php artisan jwt:secret
+    ```
 
 4. Ejecutar migraciones para crear las tablas en la base de datos:
 
