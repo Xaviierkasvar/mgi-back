@@ -48,8 +48,10 @@ El proyecto también incluye un sistema de autenticación basado en **JWT** para
 ### Clonar el repositorio
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/Xaviierkasvar/mgi-back 
 ```
+Crear una base de datos llamada mgi
+CREATE DATABASE mgi;
 
 ### Backend (Laravel)
 
